@@ -30,7 +30,7 @@ o3 = {"a": 1, "b": 2,
           "superman": {"name": "Clark Kent"}}},
       "d": 4}
 
-# walk_dict(o3, 0)
+
 pretty_print(o3, 3)
 
 
